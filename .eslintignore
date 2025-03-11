@@ -1,0 +1,29 @@
+# Next.js build output
+.next/
+out/
+build/
+
+# Node modules
+node_modules/
+
+# Coverage directory
+coverage/
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env*.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
